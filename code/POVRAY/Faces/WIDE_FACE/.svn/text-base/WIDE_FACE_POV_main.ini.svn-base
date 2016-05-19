@@ -1,0 +1,52 @@
+;==================================================
+;POV-Ray Initialization file (render settings)
+;Run this file in POV-Ray to obtain the rendered image
+;NOTE: Delete the command line options in the toolbar
+;      before pressing RUN to use the settings in this file
+;==================================================
+;This file has been created by PoseRay v3.9.0.398
+;3D model to POV-Ray/Moray Converter.
+;Author: FlyerX
+;Email: flyerx_2000@yahoo.com
+;Web: http://mysite.verizon.net/sfg0000/
+;==================================================
+;Files needed to run the POV-Ray scene:
+;WIDE_FACE_POV_main.ini (initialization file - open this to render)
+;WIDE_FACE_POV_scene.pov (scene setup of cameras, lights and geometry)
+;WIDE_FACE_POV_geom.inc (geometry mesh)
+;WIDE_FACE_POV_mat.inc (materials)
+;WIDE_FACE_eyeL_hi.jpg
+;WIDE_FACE_eyeR_hi.jpg
+;WIDE_FACE_skin_hi.jpg
+;WIDE_FACE_sock.jpg
+;WIDE_FACE_teethLower.jpg
+;WIDE_FACE_teethUpper.jpg
+;WIDE_FACE_tongue.jpg
+; 
+;
+;Input POV-Ray file
+Input_File_Name="WIDE_FACE_POV_scene.pov"
+;Output rendered image file
+Output_File_Name="WIDE_FACE.png"
+;Resolution
++W2048
++H1536
+;Output format: PNG (portable network graphics)
++FN
+;Mosaic preview
++SP8
++EP8
+;Antialiasing
++AM1
++A
+;Quality
++Q9
+;Alpha transparency option
+-UA
+;Continuation option
+-C
+;Animation parameters
+Initial_Clock=0
+Final_Clock=1
+Initial_Frame=0
+Final_Frame=0

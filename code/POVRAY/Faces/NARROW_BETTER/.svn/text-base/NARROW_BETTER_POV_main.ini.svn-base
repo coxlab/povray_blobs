@@ -1,0 +1,52 @@
+;==================================================
+;POV-Ray Initialization file (render settings)
+;Run this file in POV-Ray to obtain the rendered image
+;NOTE: Delete the command line options in the toolbar
+;      before pressing RUN to use the settings in this file
+;==================================================
+;This file has been created by PoseRay v3.9.0.398
+;3D model to POV-Ray/Moray Converter.
+;Author: FlyerX
+;Email: flyerx_2000@yahoo.com
+;Web: http://mysite.verizon.net/sfg0000/
+;==================================================
+;Files needed to run the POV-Ray scene:
+;NARROW_BETTER_POV_main.ini (initialization file - open this to render)
+;NARROW_BETTER_POV_scene.pov (scene setup of cameras, lights and geometry)
+;NARROW_BETTER_POV_geom.inc (geometry mesh)
+;NARROW_BETTER_POV_mat.inc (materials)
+;NARROW_BETTER_eyeL_hi.jpg
+;NARROW_BETTER_eyeR_hi.jpg
+;NARROW_BETTER_skin_hi.jpg
+;NARROW_BETTER_sock.jpg
+;NARROW_BETTER_teethLower.jpg
+;NARROW_BETTER_teethUpper.jpg
+;NARROW_BETTER_tongue.jpg
+; 
+;
+;Input POV-Ray file
+Input_File_Name="NARROW_BETTER_POV_scene.pov"
+;Output rendered image file
+Output_File_Name="NARROW_BETTER.png"
+;Resolution
++W791
++H652
+;Output format: PNG (portable network graphics)
++FN
+;Mosaic preview
++SP8
++EP8
+;Antialiasing
++AM1
++A
+;Quality
++Q9
+;Alpha transparency option
+-UA
+;Continuation option
+-C
+;Animation parameters
+Initial_Clock=0
+Final_Clock=1
+Initial_Frame=0
+Final_Frame=0

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/887/stimuli/code/image_analysis
+END
+Gaussian_sigma16.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/621/stimuli/code/image_analysis/Gaussian_sigma16.jpg
+END
+PixelBasedStimClassification.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/623/stimuli/code/image_analysis/PixelBasedStimClassification.m
+END
+PerCorr_trnVStrn_Nrep5.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/621/stimuli/code/image_analysis/PerCorr_trnVStrn_Nrep5.jpg
+END
+PerCorr_Nrep5.fig
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/621/stimuli/code/image_analysis/PerCorr_Nrep5.fig
+END
+PerCorr_trnVStst_Nrep5.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/621/stimuli/code/image_analysis/PerCorr_trnVStst_Nrep5.jpg
+END
+ProvaFiltri.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/621/stimuli/code/image_analysis/ProvaFiltri.m
+END
+LowPassFilterImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/621/stimuli/code/image_analysis/LowPassFilterImage.m
+END
+PerfSVM_train.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/621/stimuli/code/image_analysis/PerfSVM_train.jpg
+END
+grating_1cycle_perDeg.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/621/stimuli/code/image_analysis/grating_1cycle_perDeg.jpg
+END
+Build_LowPassFiltered_Subsampled_Scaled_Images.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/621/stimuli/code/image_analysis/Build_LowPassFiltered_Subsampled_Scaled_Images.m
+END
+PerCorr_trnVStrn_Nrep10.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/621/stimuli/code/image_analysis/PerCorr_trnVStrn_Nrep10.jpg
+END
+PerfSVM_test.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/621/stimuli/code/image_analysis/PerfSVM_test.jpg
+END
+PerCorr_Nrep5.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/621/stimuli/code/image_analysis/PerCorr_Nrep5.jpg
+END
+gabor2.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/887/stimuli/code/image_analysis/gabor2.m
+END
+Ideal_cutoff40.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/621/stimuli/code/image_analysis/Ideal_cutoff40.jpg
+END
+Ideal_cutoff41.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/621/stimuli/code/image_analysis/Ideal_cutoff41.jpg
+END
+CosGrating_1cyclePerDeg.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/621/stimuli/code/image_analysis/CosGrating_1cyclePerDeg.png
+END
+Gaussian_sigma40.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/621/stimuli/code/image_analysis/Gaussian_sigma40.jpg
+END

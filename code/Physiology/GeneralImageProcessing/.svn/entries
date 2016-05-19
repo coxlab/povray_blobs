@@ -1,0 +1,52 @@
+8
+
+dir
+1072
+https://svn.coxlab.org/stimuli/code/Physiology/GeneralImageProcessing
+https://svn.coxlab.org
+
+
+
+2008-02-25T18:00:17.886587Z
+194
+zoccolan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0d84ae72-763b-0410-a4f4-e647132da8cb
+
+CenterImageInFrame_call.m
+file
+
+
+
+
+2009-05-13T18:47:38.000000Z
+d11055080bf9271f376404961328406a
+2008-02-25T18:00:17.886587Z
+194
+zoccolan
+
+ResizeStimSetToMatchFrameBoundaries.m
+file
+
+
+
+
+2009-05-13T18:47:38.000000Z
+81e08f7063d62a353f2052ad9ce03cf1
+2008-02-25T18:00:17.886587Z
+194
+zoccolan
+

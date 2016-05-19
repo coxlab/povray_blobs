@@ -1,0 +1,78 @@
+8
+
+dir
+1072
+https://svn.coxlab.org/stimuli/code/POVRAY/Faces
+https://svn.coxlab.org
+
+
+
+2008-12-19T17:16:55.830933Z
+835
+oertelt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0d84ae72-763b-0410-a4f4-e647132da8cb
+
+FACE_2_CamRot_y0.png
+file
+
+
+
+
+2009-05-13T18:45:58.000000Z
+0fa454002f9e8282d91708cc0295ab08
+2008-10-08T14:58:32.976647Z
+630
+oertelt
+has-props
+
+OTHER_FACES
+dir
+
+NARROW_FACE
+dir
+
+WIDE_FACE
+dir
+
+eyeball_2.m
+file
+
+
+
+
+2009-05-13T18:45:58.000000Z
+a2c58798927d5d62b44ae7cb6291130c
+2008-09-26T15:26:25.763390Z
+606
+oertelt
+
+NARROW_BETTER
+dir
+
+FACE_1_CamRot_y0.png
+file
+
+
+
+
+2009-05-13T18:45:58.000000Z
+64d41c754b9ce22b0447ab318e3c931e
+2008-10-08T14:58:19.572921Z
+629
+oertelt
+has-props
+

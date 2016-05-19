@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/668/stimuli/code/on-the-fly-POV
+END
+output2.pov
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/651/stimuli/code/on-the-fly-POV/output2.pov
+END
+distributed_render.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/652/stimuli/code/on-the-fly-POV/distributed_render.py
+END
+combineppm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/651/stimuli/code/on-the-fly-POV/combineppm
+END
+combineppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/651/stimuli/code/on-the-fly-POV/combineppm.c
+END
+test_distributed.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/668/stimuli/code/on-the-fly-POV/test_distributed.sh
+END

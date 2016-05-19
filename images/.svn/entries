@@ -1,0 +1,52 @@
+8
+
+dir
+1072
+https://svn.coxlab.org/stimuli/images
+https://svn.coxlab.org
+
+
+
+2009-01-19T15:09:21.210850Z
+859
+zoccolan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0d84ae72-763b-0410-a4f4-e647132da8cb
+
+Blobs_TrainingRatsD1D2_FinerSampling
+dir
+
+Blobs_TrainingRatsD1D2_NewLighting
+dir
+
+Blobs_TrainingRatsD1D2
+dir
+
+Blobs_TrainingRatsD1D2_FinerSampling_HalfSize
+dir
+
+Faces_morphed_out
+dir
+
+Physiology
+dir
+
+Blobs_Training_NewLighting_SoftShadow
+dir
+
+Blobs_Training_NewLighting_3
+dir
+

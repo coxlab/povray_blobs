@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/873/stimuli/code/morph
+END
+test2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/849/stimuli/code/morph/test2.txt
+END
+test1_geom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/849/stimuli/code/morph/test1_geom.inc
+END
+FACE_teethLower.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/855/stimuli/code/morph/FACE_teethLower.jpg
+END
+test3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/849/stimuli/code/morph/test3.txt
+END
+FACE_eyeR_hi.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/855/stimuli/code/morph/FACE_eyeR_hi.jpg
+END
+FACE_skin_hi.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/855/stimuli/code/morph/FACE_skin_hi.jpg
+END
+FACE_teethUpper.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/855/stimuli/code/morph/FACE_teethUpper.jpg
+END
+FACE.mtl
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/855/stimuli/code/morph/FACE.mtl
+END
+FACE_POV_mat.inc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/855/stimuli/code/morph/FACE_POV_mat.inc
+END
+FACE_sock.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/855/stimuli/code/morph/FACE_sock.jpg
+END
+povray.ini
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/855/stimuli/code/morph/povray.ini
+END
+FACE_tongue.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/855/stimuli/code/morph/FACE_tongue.jpg
+END
+FACE_POV_geom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/873/stimuli/code/morph/FACE_POV_geom.inc
+END
+FACE_POV_scene.pov
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/855/stimuli/code/morph/FACE_POV_scene.pov
+END
+morph3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/873/stimuli/code/morph/morph3d.py
+END
+ResizeMorphedFacesRatStims.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/873/stimuli/code/morph/ResizeMorphedFacesRatStims.m
+END
+FACE_POV_main.ini
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/855/stimuli/code/morph/FACE_POV_main.ini
+END
+morph3d.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/873/stimuli/code/morph/morph3d.pyc
+END
+FACE.obj
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/855/stimuli/code/morph/FACE.obj
+END
+FACE_eyeL_hi.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/855/stimuli/code/morph/FACE_eyeL_hi.jpg
+END

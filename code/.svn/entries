@@ -1,0 +1,49 @@
+8
+
+dir
+1072
+https://svn.coxlab.org/stimuli/code
+https://svn.coxlab.org
+
+
+
+2009-06-09T18:14:49.454739Z
+1070
+laughinghouse
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0d84ae72-763b-0410-a4f4-e647132da8cb
+
+POVRAY
+dir
+
+on-the-fly-POV
+dir
+
+Blobs_RatsD1D2
+dir
+
+image_analysis
+dir
+
+morph
+dir
+
+Physiology
+dir
+
+povray face example
+dir
+
